@@ -15,8 +15,8 @@ Here's a glimpse of my tech stack, with some of the tools and technologies I wor
   - ![CSS3](https://img.icons8.com/color/30/000000/css3.png) CSS
   - ![JavaScript](https://img.icons8.com/color/30/000000/javascript.png) JavaScript
   - Framework: ![React](https://img.icons8.com/ultraviolet/30/000000/react.png)
-  - Additional Libraries: ![Redux Toolkit](https://img.icons8.com/color/30/000000/redux.png), ![Redux Queries](https://img.icons8.com/color/30/000000/redux.png)
-  - CSS Framework: ![Tailwind CSS](https://img.icons8.com/color/30/000000/tailwind-css.png)
+  - Additional Libraries: ![Redux Toolkit](https://img.icons8.com/color/30/000000/redux.png)
+  - CSS Framework: **Tailwind CSS**
 
 - 🚀 Back End Technologies:
   - ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) Node.js with ![Express.js](https://img.icons8.com/color/30/000000/express.png)
