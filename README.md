@@ -2,28 +2,32 @@
 
 👋 Hello, I'm Kamal Soni!
 
-🚀 Aspiring Software Engineer | 📚 Lifelong Learner
+🚀 Full Stack Web Developer | 📚 Lifelong Learner
 
-I have always been fascinated by the world of technology and its ever-evolving nature. My journey into the realm of software engineering began with a single line of code and has since grown into a passionate pursuit of creating elegant solutions to complex problems.
+I have always been fascinated by the world of technology and its ever-evolving nature. My journey into the realm of web development began with a single line of code and has since grown into a passionate pursuit of creating elegant solutions to complex problems.
 
-## What I Bring to the Table
+## Tech Stack
 
-- 💻 **Tech Stack:** I'm well-versed in a variety of programming languages and technologies, including Python, JavaScript, and more. I love to explore new tools and frameworks to stay up-to-date with the latest trends.
+Here's a glimpse of my tech stack, with some of the tools and technologies I work with:
 
-- 🔧 **Problem Solver:** I thrive on challenges and enjoy dissecting problems to find innovative solutions. Whether it's a bug in the code or an intricate algorithm, I'm always up for the challenge.
+- 💻 Front End Technologies:
+  - ![HTML5](https://img.icons8.com/color/30/000000/html-5.png) HTML
+  - ![CSS3](https://img.icons8.com/color/30/000000/css3.png) CSS
+  - ![JavaScript](https://img.icons8.com/color/30/000000/javascript.png) JavaScript
+  - Framework: ![React](https://img.icons8.com/ultraviolet/30/000000/react.png)
+  - Additional Libraries: ![Redux Toolkit](https://img.icons8.com/color/30/000000/redux.png), ![Redux Queries](https://img.icons8.com/color/30/000000/redux.png)
+  - CSS Framework: ![Tailwind CSS](https://img.icons8.com/color/30/000000/tailwind-css.png)
 
-- 📚 **Continuous Learner:** Technology never stands still, and neither do I. I'm committed to continuous learning, whether it's through online courses, books, or collaborating with like-minded individuals.
+- 🚀 Back End Technologies:
+  - ![Node.js](https://img.icons8.com/color/30/000000/nodejs.png) Node.js with ![Express.js](https://img.icons8.com/color/30/000000/express.png)
+  - Database: Beginner in ![MongoDB](https://img.icons8.com/color/30/000000/mongodb.png)
+  - RESTful API Development
+  - Server-Side Rendering: ![EJS](https://img.icons8.com/color/30/000000/ejs.png)
 
 ## Let's Connect!
 
 🤝 Let's connect and collaborate! Whether you want to discuss a project, share ideas, or just geek out about the latest tech trends, feel free to reach out. Together, we can build a brighter and more innovative future.
 
-📫 You can contact me via email at [your@email.com] or connect with me on LinkedIn [LinkedIn Profile Link].
+📫 You can contact me via email at [webdevkamal@email.com] or connect with me on LinkedIn [https://www.linkedin.com/in/kamal5276/].
 
 Happy coding! 🚀
-You can copy and paste this Markdown code into your README file on GitHub or any other platform to showcase your "About Me" section.
-
-
-
-
-
